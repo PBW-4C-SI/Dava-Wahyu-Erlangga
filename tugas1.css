@@ -1,0 +1,13 @@
+h1 {
+    color : red;
+    font-size: 40px;
+}
+
+#mk {
+    color: blue;
+    font-family: Helvetica;
+}
+
+.qs {
+    font-style: italic;
+}
